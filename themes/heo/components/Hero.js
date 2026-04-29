@@ -371,10 +371,10 @@ function TodayCard({ cRef, siteInfo }) {
           className='flex justify-between w-full relative text-white p-10 items-end'>
           <div className='flex flex-col'>
             <div className='text-xs font-light'>
-              {siteConfig('HEO_HERO_TITLE_4', null, CONFIG)}
+              {CONFIG.HEO_HERO_TITLE_4}
             </div>
             <div className='text-3xl font-bold'>
-              {siteConfig('HEO_HERO_TITLE_5', null, CONFIG)}
+              {CONFIG.HEO_HERO_TITLE_5}
             </div>
           </div>
           {/* 查看更多的按钮 */}
