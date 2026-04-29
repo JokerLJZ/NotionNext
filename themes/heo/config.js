@@ -21,7 +21,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'stickman.life',
   HEO_HERO_TITLE_4: '',
-  HEO_HERO_TITLE_5: '火柴人的生活笔记',
+  HEO_HERO_TITLE_5: '',
   HEO_HERO_TITLE_LINK: 'stickman.life',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
